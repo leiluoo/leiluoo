@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Leiluo
-- 🎓 I’m currently studying in Moscow State University on faculty of Computational Mathematics and Cybernetics on the department of algorithm language.
-- 💼 worked as SDE intern at Tencent.
-- 💌 Incoming SDE at Huawei.
-- 📫 feel free to reach me at leiluoouyang@outlook.com or leiluo@mail.ru
+- 👋 Hi, I’m Leiluo.
+- 🎓 I obtained bachelor degree of Applied Math & Computer Science at Moscow State University.
+- 💼 I'm a full-time MLE at Huawei. I worked as SDE intern at Tencent before graduation.
+- 📫 feel free to reach me at leiluoouyang@outlook.com or leiluo@mail.ru.
 
 <!---
 AllenOuyang/AllenOuyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
